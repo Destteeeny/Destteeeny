@@ -1,6 +1,6 @@
 # About Me 👀
 Hi there 👋 
-My name is Goncalo Silva i have 20 years old and im trying to be a front-end junior developer!
+My name is Goncalo Silva i have 20 years old and im trying to be a front-end developer!
 
 ## Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
